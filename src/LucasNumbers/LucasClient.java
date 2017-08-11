@@ -1,7 +1,6 @@
 package LucasNumbers;
 
 import java.util.Scanner;
-import java.lang.Thread;
 
 public class LucasClient {
 
@@ -29,6 +28,3 @@ public class LucasClient {
             }
         }
 }
-
-
-
