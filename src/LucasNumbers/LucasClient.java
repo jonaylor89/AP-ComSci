@@ -19,7 +19,6 @@ public class LucasClient {
                     LucasServer.checkDivisibility();
                     LucasServer.dump();
 
-                    Thread.sleep(2000);
                     System.out.println("\n\n\n\n");
 
                 } else if (userInput.hasNext() && userInput.next().equals("q")) {
