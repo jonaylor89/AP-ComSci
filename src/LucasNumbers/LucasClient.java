@@ -6,8 +6,7 @@ public class LucasClient {
 
     private static Scanner userInput = new Scanner(System.in);
 
-    public static void main(String[] argv)
-        throws InterruptedException{
+    public static void main(String[] argv){
             while (true) {
                 System.out.println("Enter the number of numbers (To exit enter q): \n\n\n");
 
